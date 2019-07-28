@@ -15,3 +15,7 @@ more text on purpose
 ## Deployment
 
 More notes on deployment
+
+## Copyright
+
+This is a copyright
