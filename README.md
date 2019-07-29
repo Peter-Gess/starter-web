@@ -12,6 +12,8 @@ more text on purpose
 
 ## How to contribute
 
+Please fork this repo
+
 ## Deployment
 
 More notes on deployment
