@@ -18,6 +18,8 @@ Please fork this repo
 
 More notes on deployment
 
+Should we do deployments differently?
+
 ## Copyright
 
 This is a copyright
