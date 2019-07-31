@@ -18,7 +18,7 @@ Please fork this repo
 
 More notes on deployment
 
-Should we do deployments differently?
+Should we do deployments differently?  Maybe
 
 ## Copyright
 
