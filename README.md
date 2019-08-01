@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how github is done
+This is a simple website project for showing how github is done.  We are doing emergency fix
 
 ## Introduction
 
