@@ -22,4 +22,4 @@ Should we do deployments differently?  Maybe
 
 ## Copyright
 
-This is a copyright
+This is a copyright.  All rights reserved
